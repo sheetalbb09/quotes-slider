@@ -17,7 +17,7 @@ A simple and elegant quote slider that automatically cycles through famous quote
 
 - **HTML5**
 - **CSS3**
-- **Vanilla JavaScript**
+- **JavaScript**
 
 ---
 
